@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MunnaKumar27
+- 👋 Hi, I’m Munna Kumar
 - 👀 I’m interested in coding and web designing 
 - 🌱 I’m currently learning DSA
 
