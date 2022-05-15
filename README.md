@@ -1,6 +1,9 @@
-<h1 align="center">Hi , I'm Munna Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a ><img src="https://readme-typing-svg.herokuapp.com?width=400&lines=Electronic+Engineering+Student+;Competitive+Programmer;DS+%7C+ALGORITHM+%7C+OOP;2+Star+on+Codechef+%2C+codeforces;Web_developer;Always+Learning+new+things"></a>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="150"/>
+</p>
+<h1 align="center">Hi , I'm Munna Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
+<p align="center">
+  <a ><img src="https://readme-typing-svg.herokuapp.com?width=400&lines=Electronic+Engineering+Student+;Competitive+Programmer;DS+%7C+ALGORITHM+%7C+OOP;2+Star+on+Codechef+%2C+codeforces;Web_developer;Always+Learning+new+things" marginleft="45px"></a>
 </p>
 
 
@@ -23,7 +26,16 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MunnaKumar27&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="MunnaKumar27" /></p>
 
 <br>
+
 <br>
+
+`🔥Most Used Languages`
+<p  align="center"><img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+</br>
 
 
 ## 👀 My Competitive Programming Profiles
@@ -159,18 +171,8 @@
 </p>
 
 <br/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MunnaKumar27/count.svg" />
+</p>
 
-<!-- ## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p> -->
