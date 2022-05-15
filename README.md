@@ -89,6 +89,7 @@ https://skyline.github.com/MunnaKumar27/2021
 </p>
 
 <br>
+
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
@@ -106,7 +107,8 @@ https://skyline.github.com/MunnaKumar27/2021
 </p>
 
 </br>
- ### 👉 Software & Tools
+
+### 👉 Software & Tools
  
 <p align="center">
   &emsp;
@@ -130,7 +132,8 @@ https://skyline.github.com/MunnaKumar27/2021
 </p>
 
 <br>
- ### 👉 IDEs
+
+### 👉 IDEs
  
 <p align="center">
   &emsp;
@@ -144,7 +147,8 @@ https://skyline.github.com/MunnaKumar27/2021
 </p>
 </br>
 <br>
- ### 👉 Competitive Programming & Problem Solving
+
+### 👉 Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -162,7 +166,8 @@ https://skyline.github.com/MunnaKumar27/2021
 </p>
 </br>
 <br>
- ### 👉 Operating Systems
+
+### 👉 Operating Systems
  
 <p align="center">
   &emsp;
