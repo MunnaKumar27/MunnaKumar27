@@ -26,7 +26,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MunnaKumar27&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="MunnaKumar27" /></p>
 
 <br>
-
+https://skyline.github.com/MunnaKumar27/2021
 <br>
 
 `🔥Most Used Languages`
@@ -88,6 +88,7 @@
   </a>
 </p>
 
+<br>
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
@@ -104,6 +105,7 @@
   </a>
 </p>
 
+</br>
  ### 👉 Software & Tools
  
 <p align="center">
@@ -127,6 +129,7 @@
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
 
+<br>
  ### 👉 IDEs
  
 <p align="center">
@@ -139,7 +142,8 @@
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
-
+</br>
+<br>
  ### 👉 Competitive Programming & Problem Solving
  
 <p align="center">
@@ -156,7 +160,8 @@
   &emsp;
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
-
+</br>
+<br>
  ### 👉 Operating Systems
  
 <p align="center">
@@ -169,7 +174,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
 </p>
-
+</br>
 <br/>
 <p align="center"> 
   Visitor count<br>
