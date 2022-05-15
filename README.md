@@ -11,6 +11,7 @@
 ## :sassy_man:  About me
 - :school: I am a Third year ` Engineering student `of `Electronics and communication` at `National Institute of Technology Patna`
 - :technologist: I love using Software as a solution for every `Problem`
+- 🕸️: https://munnaportfolio.ml/
 - :computer: I am a competitive programmer 
 - :student: I’m currently learning: `ReactJs` and `Nodejs, mongodb`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://munnaportfolio.ml/resume.pdf).
@@ -19,7 +20,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MunnaKuumar27&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="MunnaKumar27" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MunnaKumar27&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="MunnaKumar27" /></p>
 
 <br>
 <br>
@@ -39,10 +40,10 @@
 	<a href="mailto:mkumar270278@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/MunnaKumar27"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/7050378525"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+	<a href="https://www.linkedin.com/in/munna-kumar-161981228/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/Munnakumar27"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/Munnakumar_27"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.snapchat.com/add/munnakumar_27?share_id=77nNCJ_7GZ8&locale=en-US"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
 
@@ -84,7 +85,11 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/reactjs/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/Reactjs-reactjs-blue">
+  </a>
 </p>
 
  ### 👉 Software & Tools
@@ -155,7 +160,7 @@
 
 <br/>
 
-## 📊 Github Stats
+<!-- ## 📊 Github Stats
 
 
 
@@ -168,4 +173,4 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  </p> -->
