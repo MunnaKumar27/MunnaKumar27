@@ -43,11 +43,11 @@ https://skyline.github.com/MunnaKumar27/2021
 <p align="center">
   <a href="https://codeforces.com/profile/MunnaKumar_27"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	<a href="https://leetcode.com/Munnakumar27/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/Munnakumar27/"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a>
+	<a href="https://atcoder.jp/users/Munnakumar27/"><img src="https://i.ibb.co/Q9WSjDB/logo.png" width="30px" height="30px" alt="AtCoder"/></a>
 	<a href="https://www.codechef.com/users/MunnaKumar_27"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>  
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Connect with me
 <p align="center">
 	<a href="mailto:mkumar270278@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/MunnaKumar27"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
