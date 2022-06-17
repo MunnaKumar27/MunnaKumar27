@@ -26,10 +26,10 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MunnaKumar27&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="MunnaKumar27" /></p>
 
 <br>
-https://skyline.github.com/MunnaKumar27/2021
+## https://skyline.github.com/MunnaKumar27/2021
 <br>
 
-`🔥Most Used Languages`
+## `🔥Most Used Languages`
 <p  align="center"><img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
@@ -63,7 +63,7 @@ https://skyline.github.com/MunnaKumar27/2021
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+## 👉 Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -90,7 +90,7 @@ https://skyline.github.com/MunnaKumar27/2021
 
 <br>
 
-### 👉 Frontend Development
+## 👉 Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -108,7 +108,7 @@ https://skyline.github.com/MunnaKumar27/2021
 
 </br>
 
-### 👉 Software & Tools
+## 👉 Software & Tools
  
 <p align="center">
   &emsp;
@@ -133,7 +133,7 @@ https://skyline.github.com/MunnaKumar27/2021
 
 <br>
 
-### 👉 IDEs
+## 👉 IDEs
  
 <p align="center">
   &emsp;
@@ -148,7 +148,7 @@ https://skyline.github.com/MunnaKumar27/2021
 </br>
 <br>
 
-### 👉 Competitive Programming & Problem Solving
+## 👉 Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -167,7 +167,7 @@ https://skyline.github.com/MunnaKumar27/2021
 </br>
 <br>
 
-### 👉 Operating Systems
+## 👉 Operating Systems
  
 <p align="center">
   &emsp;
