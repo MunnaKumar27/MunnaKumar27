@@ -17,7 +17,7 @@
 - 🕸️: https://munnaportfolio.ml/
 - :computer: I am a competitive programmer 
 - :student: I’m currently learning: `ReactJs` and `Nodejs, mongodb`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://munnaportfolio.ml/resume.pdf).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://munnaportfolio.ml/Resume.pdf).
 - :nerd_face: Always `learning new things`
 
 <br>
