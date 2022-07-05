@@ -14,11 +14,13 @@
 ## :sassy_man:  About me
 - :school: I am a Third year ` Engineering student `of `Electronics and communication` at `National Institute of Technology Patna`
 - :technologist: I love using Software as a solution for every `Problem`
-- 🕸️: https://munnaportfolio.ml/ [Live](https://munnakumar27.github.io/MunnaPortfolio/)
+- 🕸️: https://munnaportfolio.ml/       [Live](https://munnakumar27.github.io/MunnaPortfolio/)
+- :technologist: All my `projects` are [here](https://munna-project-gallery.ml/)
 - :computer: I am a competitive programmer 
 - :student: I’m currently learning: `ReactJs` and `Nodejs, mongodb`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is `[MY RESUME]`(https://munnaportfolio.ml/Resume.pdf).
 - :nerd_face: Always `learning new things`
+- 😊: Always `Live Life to the Fullest`
 
 <br>
 
