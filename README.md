@@ -12,7 +12,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a Third year ` Engineering student `of `Electronics and communication` at `National Institute of Technology Patna`
+- :school: I am a software Engineer at `TVS Motors Company Limited`
 - :technologist: I love using Software as a solution for every `Problem`
 - 🕸️: [https://munna-portfolio.ml/ ](https://munna-portfolio.vercel.app/)      [Live](https://munnakumar27.github.io/MunnaPortfolio/)
 - :technologist: All my `projects` are [here](https://munna-project-gallery.ml/)
