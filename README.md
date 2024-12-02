@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi , I'm Munna Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 <p align="center">
-  <a ><img src="https://readme-typing-svg.herokuapp.com?width=400&lines=Electronic+Engineering+Student+;software+Engineer;Competitive+Programmer;DS+%7C+ALGORITHM+%7C+OOP;2+Star+on+Codechef+%2C+codeforces;Web_developer;Always+Learning+new+things" marginleft="45px"></a>
+  <a ><img src="https://readme-typing-svg.herokuapp.com?width=400&lines=software+Engineer;Competitive+Programmer;DS+%7C+ALGORITHM+%7C+OOP;2+Star+on+Codechef+%2C+codeforces;Web_developer;Always+Learning+new+things" marginleft="45px"></a>
 </p>
 
 
